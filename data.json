@@ -1,0 +1,112 @@
+[
+   {
+      "restaurantName": "Bronco",
+      "address": "Église Saint-Germain, Place de l'Église, 28250 Digny, France",
+      "position": {
+         "lat": 48.536960210826614,
+         "lng": 1.152703776334283 
+      },
+      "types": [
+         "restaurant",
+         "food"
+      ],
+      "note_moyenne": 2,
+      "user_ratings_total": 2,
+      "ratings": [
+         {
+            "auteur": "Michel LOISON",
+            "time": 1603305851,
+            "stars": 4,
+            "comment": "Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+         },
+         {
+            "auteur": "Thomas POI",
+            "time": 1603305851,
+            "stars": 5,
+            "comment": "Tout simplement mon restaurant préféré !"
+         }
+      ]
+   },
+   {
+      "restaurantName": "Babalou",
+      "address": "17 Rue Paul Deschanel, 28250 Digny, France",
+      "position": {
+         "lat": 48.536529438877984,
+         "lng": 1.1527930040322332
+      },
+      "types": [
+         "restaurant",
+         "food"
+      ],
+      "note_moyenne": 3,
+      "user_ratings_total": 2,
+      "ratings": [
+         {
+            "auteur": "Michel LOISON",
+            "time": 1603305851,
+            "stars": 1,
+            "comment": "Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+         },
+         {
+            "auteur": "Micheline LOIS",
+            "time": 1603305851,
+            "stars": 2,
+            "comment": "J'ai trouvé ça correct, sans plus"
+         },
+         {
+            "auteur": "Michelle ISON",
+            "time": 1603305851,
+            "stars": 5,
+            "comment": "Cool"
+         }
+      ]
+   },
+   {
+      "restaurantName": "Calypso",
+      "address": "14 Rue des Fondeurs, 28250 Digny, France",
+      "position": {
+         "lat": 48.538167845725255,
+         "lng": 1.1520134177503039
+      },
+      "types": [
+         "restaurant",
+         "food"
+      ],
+      "note_moyenne": 0,
+      "user_ratings_total": 0,
+      "ratings": [
+         {
+            "stars": "pas de notation",
+            "comment": "pas de commentaire"
+         }
+      ]
+   },
+   {
+      "restaurantName": "Chez Flyn",
+      "address": "Rue George Sand, 28250 Digny, France",
+      "position": {
+         "lat": 48.53256953887651,
+         "lng": 1.1549656842040879
+      },
+      "types": [
+         "restaurant",
+         "food"
+      ],
+      "note_moyenne": 4,
+      "user_ratings_total": 2,
+      "ratings": [
+         {
+            "auteur": "Michou LON",
+            "time": 1603305851,
+            "stars": 5,
+            "comment": "Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+         },
+         {
+            "auteur": "Mia LIN",
+            "time": 1603305851,
+            "stars": 1,
+            "comment": "J'ai trouvé ça correct, sans plus"
+         }
+      ]
+   }
+]
