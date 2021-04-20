@@ -9,7 +9,7 @@ class Mapi {
     iconRed = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
     li = null;
     autocomplete = null;
-    KEY = "AIzaSyDNN7ac_6b1RRXXOlAT8_bM3eRtkTHiipU";
+    KEY ="";
     /**
      * 
      * @param {String} id // id de la map 
